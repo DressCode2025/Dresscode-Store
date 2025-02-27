@@ -6,7 +6,8 @@ const api = axios.create({
     // baseURL: "https://dresscode-bck.onrender.com",    //Production 
 
     // new bck
-    baseURL: "https://dresscode-bck-final.onrender.com",
+    // baseURL: "https://dresscode-bck-final.onrender.com",
+    baseURL: "https://dresscode-bck-bfj7.onrender.com",
 
     // baseURL: 'https://a953-2405-201-c404-293c-912e-bb0-8e4c-93f1.ngrok-free.app/api/v1/resource',   
 
